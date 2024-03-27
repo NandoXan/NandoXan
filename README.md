@@ -1,4 +1,4 @@
-### Hola que pasa? 👋 Soy NandoXan uns: .
+### Hola que pasa? 👋 Soy NandoXan 😄
 
 <!--
 **NandoXan/NandoXan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
